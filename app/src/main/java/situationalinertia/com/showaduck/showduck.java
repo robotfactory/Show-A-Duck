@@ -1,4 +1,4 @@
-package situationalinertia.com.showaduck;
+package com.situationalinertia.showaduck;
 
 /**
  * Created by jgilman0 on 7/2/2014.
